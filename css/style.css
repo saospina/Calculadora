@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: sans-serif;
+}
+center{
+    position: relative;
+    margin: 20px auto;
+    
+}
