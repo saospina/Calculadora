@@ -8,5 +8,57 @@
 center{
     position: relative;
     margin: 20px auto;
+    width: 600px;
+    height: 60;
+    text-align: center;
+    line-height: 60px;
+    background:	rgb(101, 133, 231);
+    color: 	rgb(233, 238, 252);
+    font-weight: bold;
+    border: 5px solid #ccc;
+    border-radius: 20px;
+
+    
+}
+#calculadora{
+
+    position: relative;
+    margin: 20px auto;
+    width: 400px;
+    height: 600px;
+    border: 1px solid rgb(170, 170, 170);
+    border-radius: 20px;
+    background: 	rgb(221, 221, 221);
+}
+#operaciones{
+    position: relative;
+    margin: 20px auto;
+    width: 70%;
+    background: 	rgb(255, 255, 255);
+    border: 1px solid	rgb(204, 204, 204);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 	rgb(153, 153, 153);
+    padding: 10%;
+    text-align: right;
+    font-size: 25px;
+    overflow: hidden;
+}
+#calculadora ul{
+    margin-left: 5px;
+}
+#calculadora ul li{
+    float: left;
+    padding: 32px;
+    width: 15px;
+    text-align: center;
+    margin: 8px;
+    background: white;
+    border: 1px solid rgb(170, 170, 170);
+    border-radius: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+#calculadora{
+
     
 }
